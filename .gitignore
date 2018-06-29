@@ -1,0 +1,14 @@
+.*.md.html
+*.log
+*.tmp
+
+/.settings/
+/**/.settings/
+/target/
+/**/target/
+/.classpath
+/**/.classpath
+/.project
+/**/.project
+/.springBeans
+/**/.springBeans
